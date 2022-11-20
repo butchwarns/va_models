@@ -5,4 +5,6 @@
 
 This repo holds a few of my virtual analog models of filters and other audio circuits. (It is ongoing **work in progress**.)  
 
-Check out the Jupyter notebooks to see how the models were derived. I am also publishing small write-ups on some of the models on my website every now and then, in case you are interested. → [https://butchwarns.de/](https://butchwarns.de/)
+Check out the Jupyter notebooks to see how the models were derived. I am also publishing small write-ups on some of the models on my website every now and then, in case you are interested. 
+
+→ [https://butchwarns.de/](https://butchwarns.de/)
